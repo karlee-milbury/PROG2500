@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kKKmXcGFYmAyRdPiXix/Fkgxyb9NH2xd7fmr937bRzAVCq5oQB/BvZX7FR0geyird4kcujkw1Kl5UkXLk6tLWw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\karle\\OneDrive\\Desktop\\MediaApp\\MediaApp\\MediaApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\karle\\.nuget\\packages\\taglib-sharp-netstandard2.0\\2.1.0\\taglib-sharp-netstandard2.0.2.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
